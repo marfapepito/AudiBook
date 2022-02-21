@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T12:15:12.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="ZwRTkP6AwrC-1GpNPb-e" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T12:20:59.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="OxsEsKdXcu-GzTy-15-G" version="16.6.1" type="github">
   <diagram id="WoFl2ZYh4m5NvbcfHuhJ" name="Page-1">
     <mxGraphModel dx="1093" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1800" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
             <mxPoint x="424.4100000000001" y="1339.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ko_cZbUgDAaaJvn7NovW-38" value="&lt;span&gt;Request&lt;/span&gt;&lt;br&gt;&lt;span&gt;reviewed&lt;/span&gt;&lt;br&gt;&lt;span&gt;and endorsed&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ko_cZbUgDAaaJvn7NovW-38" value="&lt;span&gt;The request will be&lt;/span&gt;&lt;br&gt;&lt;span&gt;reviewed&lt;/span&gt;&lt;br&gt;&lt;span&gt;and endorsed&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ko_cZbUgDAaaJvn7NovW-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -121,10 +121,10 @@
         <mxCell id="Ko_cZbUgDAaaJvn7NovW-77" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="1080" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ko_cZbUgDAaaJvn7NovW-78" value="Rejected" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ko_cZbUgDAaaJvn7NovW-78" value="Provide a note" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ko_cZbUgDAaaJvn7NovW-79" value="Provide a&lt;br&gt;note" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Ko_cZbUgDAaaJvn7NovW-79" value="Rejected" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="610" y="1330" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ko_cZbUgDAaaJvn7NovW-80" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ko_cZbUgDAaaJvn7NovW-79">
